@@ -1,9 +1,9 @@
 
-Using Angular 2(previously version 2) in ASP.NET MVC 5 &amp; Visual Studio 20
+Using Angular 2(previously version 2) in ASP.NET MVC 5 &amp; Visual Studio 19
 
 
 How to run?
-* Ensure latest NODEJS and TypeScript 2.3 tools is installed.
+* Ensure latest NODEJS and TypeScript 3.4 tools is installed.
 * Clone repo or fork it.
 * Open command prompt containing package.json
 * run "npm install" this will install all Angular 8 packages
