@@ -17,7 +17,7 @@
     "@angular/router": "4.3.5",
     "@angular/upgrade": "4.3.5",
     "angular-in-memory-web-api": "0.3.2",
-    "angular": "1.5.3",
+    "angular": "1.7.9",
     "bootstrap": "3.3.7",
     "core-js": "2.5.0",
     "ie-shim": "0.1.0",
